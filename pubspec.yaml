@@ -1,0 +1,23 @@
+name: challenge_me2
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+  provider: ^6.0.5
+  syncfusion_flutter_calendar: ^22.2.8
+  syncfusion_flutter_datepicker: ^22.2.8
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
